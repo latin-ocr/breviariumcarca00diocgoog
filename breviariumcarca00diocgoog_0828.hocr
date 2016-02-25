@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumcarca00diocgoog_0828.png"; bbox 0 0 2459 4384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 535 556 1076 725">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 535 556 1076 725">
+     <span class='ocr_line' id='line_1_1' title="bbox 535 556 1076 725; baseline -0.006 -90"><span class='ocrx_word' id='word_1_1' title='bbox 535 569 645 636; x_wconf 65' lang='lat'><em>1-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 864 625 871 725; x_wconf 76' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 962 556 1076 636; x_wconf 63' lang='lat' dir='ltr'><em>-M</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 767 1019 864">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 767 1019 864">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 767 1019 864; baseline -0.011 0"><span class='ocrx_word' id='word_1_4' title='bbox 305 791 566 864; x_wconf 58' lang='lat' dir='ltr'><em>mennas</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 605 767 827 858; x_wconf 53' lang='lat' dir='ltr'><em>Domi-nun</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 883 796 950 860; x_wconf 86' lang='lat' dir='ltr'><em>De·</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 986 768 1019 857; x_wconf 71' lang='lat' dir='ltr'><em>ns</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 266 1733 1070 2008">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 266 1733 1070 2008">
+     <span class='ocr_line' id='line_1_3' title="bbox 266 1733 1070 1830; baseline -0.011 -14"><span class='ocrx_word' id='word_1_8' title='bbox 266 1745 424 1816; x_wconf 79' lang='lat' dir='ltr'><em>Nenmttt</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 445 1759 505 1827; x_wconf 79' lang='lat' dir='ltr'><em>qtn</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 530 1735 562 1808; x_wconf 80' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 577 1733 639 1829; x_wconf 60' lang='lat' dir='ltr'><em>nnn</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 656 1741 864 1829; x_wconf 61' lang='lat' dir='ltr'><em>*quarundam</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 888 1735 1070 1830; x_wconf 72' lang='lat' dir='ltr'><em>Antiphon·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 315 1826 1069 1928; baseline -0.003 -21"><span class='ocrx_word' id='word_1_14' title='bbox 315 1857 382 1907; x_wconf 79' lang='lat' dir='ltr'><em>nnn</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 402 1852 557 1905; x_wconf 78' lang='lat' dir='ltr'><em>cantantur</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 573 1834 665 1925; x_wconf 71' lang='lat' dir='ltr'><em>juxta</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 682 1831 765 1928; x_wconf 55' lang='lat' dir='ltr'><em>&amp;finnt</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 782 1842 917 1909; x_wconf 80' lang='lat' dir='ltr'><em>locorum</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 929 1890 941 1922; x_wconf 94' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_20' title='bbox 954 1826 1069 1907; x_wconf 61' lang='lat' dir='ltr'><em>matini</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 318 1931 632 2008; baseline -0.006 -3"><span class='ocrx_word' id='word_1_21' title='bbox 318 1931 352 2005; x_wconf 78' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_22' title='bbox 376 1931 632 2008; x_wconf 67' lang='lat' dir='ltr'><em>solemnitatibus.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1234 4384">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1234 4384">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1234 4384; baseline 0 0"><span class='ocrx_word' id='word_1_23' title='bbox 0 0 1234 4384; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
